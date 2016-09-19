@@ -3,6 +3,7 @@
 **hello!**
 
 >这是我的github！
+
 *我将会把自己的成长分享在这里。
 *zhanglin3104是我的id！
 
@@ -12,4 +13,4 @@
 要用ts做游戏了，还没有心理准备，，，，，
 希望有所收获吧，努力！
 
-![](http://img4.imgtn.bdimg.com/it/u=2204172333,3896786573&fm=21&gp=0.jpg )
+![picture](http://img4.imgtn.bdimg.com/it/u=2204172333,3896786573&fm=21&gp=0.jpg "picture" )
