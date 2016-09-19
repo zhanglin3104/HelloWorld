@@ -13,4 +13,4 @@
 要用ts做游戏了，还没有心理准备，，，，，
 希望有所收获吧，努力！
 
-![picture](http://img4.imgtn.bdimg.com/it/u=2204172333,3896786573&fm=21&gp=0.jpg "picture" )
+![picture](http://c.hiphotos.baidu.com/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=b9e646c82ddda3cc1fe9b07260805264/5366d0160924ab1865fb3e6036fae6cd7a890bfc.jpg "picture" )
