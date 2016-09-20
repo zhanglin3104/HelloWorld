@@ -1,5 +1,5 @@
 
-var num:number = 3;
+function print(n:number):void{
 
 for (var i = 1; i <= num; i++) {
     var str:string = "";
@@ -13,5 +13,9 @@ for (var i = 1; i <= num; i++) {
     }
     console.log(str);  
 }
+}
 
+ console.log("请输入金字塔层数："); 
+ var num:number = process.argv[2]; 
+print(num);
 
