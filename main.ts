@@ -14,7 +14,6 @@ for (var i = 1; i <= num; i++) {
 }
 }
 
- var x= process.argv[2]; 
- var num:number  = parseInt(x);
+ var num :number= process.argv[2]; 
  print(num);
 

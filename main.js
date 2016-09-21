@@ -11,6 +11,5 @@ function print(n) {
         console.log(str);
     }
 }
-console.log("请输入金字塔层数：");
 var num = process.argv[2];
 print(num);
